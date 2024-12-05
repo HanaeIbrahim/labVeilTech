@@ -1,11 +1,11 @@
 [about]
 other = "About"
 
-[contact]
-other = "Contact"
+[home]
+other = "Home"
 
-[tags]
-other = "Tags"
+[blogs]
+other = "Blogs"
 
 [search]
 other = "Search"
