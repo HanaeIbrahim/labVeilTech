@@ -8,6 +8,6 @@ slug = "Home"
 
 Bienvenue sur ma plateforme entièrement dédiée à l'univers passionnant du design UX/UI ! 🎨✨ 
 
-Ici, je partage avec vous une sélection d'articles, de ressources, et d'idées qui m'inspirent au quotidien. Mon objectif est de créer un espace où les amateurs et professionnels du design peuvent découvrir des contenus enrichissants sur les tendances actuelles, les méthodologies innovantes et les bonnes pratiques. 🌟💡
+Ici, je partage avec vous une sélection d'articles, de ressources, et d'idées qui m'inspirent au quotidien. Mon objectif est de créer un espace où je peux vous faire découvrir des contenus enrichissants sur les tendances actuelles, les méthodologies innovantes et les bonnes pratiques. 🌟💡
 
 ![My design](../img/Mockup2_VDiscover.png)
